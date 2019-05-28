@@ -13,6 +13,11 @@ Vue.config.productionTip = false;
 Vue.use(iView);
 Vue.use(VueSesource);
 
+var golob = {
+  user:'timanetwork',
+  password:'tima'
+}
+
 // 开启debug模式
 Vue.config.debug = true;
 
