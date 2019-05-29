@@ -14,8 +14,8 @@ Vue.use(iView);
 Vue.use(VueSesource);
 
 var golob = {
-  user:'timanetwork',
-  password:'tima'
+  user:'cenhurong',
+  password:'cenhurong'
 }
 
 // 开启debug模式
