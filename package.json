@@ -12,7 +12,7 @@
     "test": "npm run unit"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "iview": "^2.4.0",
     "lodash": "^4.17.4",
     "vue": "^2.4.2",
